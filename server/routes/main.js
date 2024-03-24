@@ -143,7 +143,7 @@ router.get('/about', (req, res) => {
 //       title: "Authentication and Authorization in Node.js",
 //       body: "Learn how to add authentication and authorization to your Node.js web applications using Passport.js or other authentication libraries."
 //     },
-//     {
+//     
 //       title: "Understand how to work with MongoDB and Mongoose",
 //       body: "Understand how to work with MongoDB and Mongoose, an Object Data Modeling (ODM) library, in Node.js applications."
 //     },
@@ -178,4 +178,4 @@ router.get('/about', (req, res) => {
 
 
 module.exports = router; 
-// git remote add origin https://github.com/Ayus1123/project3.git
+// git remote add origin https://github.com/Ayus1123/project3.gits
