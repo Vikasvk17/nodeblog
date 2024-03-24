@@ -177,4 +177,5 @@ router.get('/about', (req, res) => {
 // insertPostData();
 
 
-module.exports = router;
+module.exports = router; 
+// git remote add origin https://github.com/Ayus1123/project3.git
